@@ -46,6 +46,20 @@ npm install
 npm run dev
 ```
 
+## Тестирование
+
+### Backend
+```bash
+cd backend
+dotnet test ElevatorControlSystem.sln
+```
+
+### Frontend
+```bash
+cd frontend
+npx vitest run
+```
+
 ## Адреса
 - Backend Swagger: http://localhost:5000/swagger
 - Backend Health: http://localhost:5000/api/health
