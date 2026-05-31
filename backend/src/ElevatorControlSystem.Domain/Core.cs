@@ -20,7 +20,7 @@ public static class DomainConstants
 
     public const int DoorOpenSeconds = 2;
 
-    public const int PassengerCallDelaySeconds = 1;
+    public const int PassengerCallDelaySeconds = 5;
 
     public const int PassengerRetentionSeconds = 5;
 }
