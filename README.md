@@ -9,7 +9,7 @@
 
 ### Backend
 - C#
-- ASP.NET Core Web API (.NET 8)
+- ASP.NET Core Web API (.NET 9)
 - Entity Framework Core
 - PostgreSQL
 - SignalR
